@@ -1,7 +1,7 @@
 print("整数を入力してください")
 i = int(input())
-if i%2 == 0
+if i%2 == 0:
   print("偶数")
-else
+else:
   print("奇数")
   
